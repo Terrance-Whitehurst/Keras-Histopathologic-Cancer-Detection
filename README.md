@@ -16,3 +16,5 @@ https://www.kaggle.com/twhitehurst3/cancer-detect-keras
 Happy Learning!
 
 ![](model_plot.png)
+
+![](headshot.jpg)
