@@ -5,7 +5,7 @@ In this competition, you must create an algorithm to identify metastatic cancer 
 1) Keras
 2) Tensorflow
 3) Data Augmentation
-4) Transfer Learning
+4) Transfer Learning(VGG19 Pre Trained Network)
 5) Keras Callbacks
 6) ROC Curve
 
@@ -14,3 +14,5 @@ If you would like to visit the kaggle kernel in which I created my submission fo
 https://www.kaggle.com/twhitehurst3/cancer-detect-keras
 
 Happy Learning!
+
+![](model_plot.png)
